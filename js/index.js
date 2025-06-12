@@ -1,6 +1,6 @@
 const title = document.querySelector('.title')
 
-const text = `Hai LUPI, BIMA has something for you`.split('')
+const text = `Hallo LUPI, BIMA has something for you`.split('')
 
 
 // Create container for better responsive layout
